@@ -1,7 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Click the link below to visit Website
 
 https://travel-assistance-5d2d4.web.app/
